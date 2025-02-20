@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algo.iml" filepath="$PROJECT_DIR$/.idea/Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/algo.iml" filepath="$PROJECT_DIR$/.idea/algo.iml" />
     </modules>
   </component>
 </project>

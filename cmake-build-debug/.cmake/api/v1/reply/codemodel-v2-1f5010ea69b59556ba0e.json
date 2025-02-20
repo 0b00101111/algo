@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/shuang/Documents/GitHub/algo/cmake-build-debug",
-		"source" : "/Users/shuang/Documents/GitHub/algo"
+		"build" : "/Users/shuang/Documents/GitHub/Algo/cmake-build-debug",
+		"source" : "/Users/shuang/Documents/GitHub/Algo"
 	},
 	"version" : 
 	{

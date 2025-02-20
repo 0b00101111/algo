@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/shuang/Documents/GitHub/algo/cmake-build-debug"
+			"value" : "/Users/shuang/Documents/GitHub/Algo/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/shuang/Documents/GitHub/algo/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/shuang/Documents/GitHub/Algo/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -1163,7 +1163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/shuang/Documents/GitHub/algo/cmake-build-debug"
+			"value" : "/Users/shuang/Documents/GitHub/Algo/cmake-build-debug"
 		},
 		{
 			"name" : "algo_IS_TOP_LEVEL",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/shuang/Documents/GitHub/algo"
+			"value" : "/Users/shuang/Documents/GitHub/Algo"
 		}
 	],
 	"kind" : "cache",
